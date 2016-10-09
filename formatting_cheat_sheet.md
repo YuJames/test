@@ -1,4 +1,4 @@
-https://help.github.com/enterprise/2.7/user/articles/basic-writing-and-formatting-syntax/
+https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
 # Biggest Header
 ###### Smallest Header
@@ -17,8 +17,9 @@ _Italic Text 2_
 
 ` Code in Sentence `
 
-```
-Code in Block
+```python
+def python_function():
+  print("code block with python code highlights")
 ```
 
 [Link Text] (https://github.com/YuJames/test)
@@ -39,25 +40,26 @@ Code in Block
 
 @YuJames what you think    <- notifies them
 
-https://help.github.com/enterprise/2.7/user/articles/autolinked-references-and-urls/    <- reference issues/pull requests
+https://help.github.com/articles/autolinked-references-and-urls/    <- reference issues/pull requests
 
-https://help.github.com/enterprise/2.7/user/articles/basic-writing-and-formatting-syntax/#using-emoji   <- using emojis
+https://help.github.com/articles/basic-writing-and-formatting-syntax/#using-emoji   <- using emojis
 
 https://daringfireball.net/projects/markdown/syntax#backslash   <- escaping markdown
 
+https://help.github.com/articles/about-writing-and-formatting-on-github/
 
+https://help.github.com/articles/organizing-information-with-tables/
 
+| Left-aligned | Center-aligned | Right-aligned |
+| :--- | :---: | ---: |
+| git status   | _git status_     | git status    |
+git diff     | git diff  | git diff      
 
-https://help.github.com/enterprise/2.7/user/articles/about-writing-and-formatting-on-github/
+340533acc3c3a9c9457fa2ae58879748adbe18bc    
+https://github.com/YuJames/test/commit/340533acc3c3a9c9457fa2ae58879748adbe18bc   
 
-
-
-
-https://help.github.com/enterprise/2.7/user/articles/working-with-advanced-formatting/
-
-
-
-
+YuJames@16c999e8c71134401a78d4d46435517b2271d6ac    
+YuJames/test@16c999e8c71134401a78d4d46435517b2271d6ac   
 
 
 
