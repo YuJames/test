@@ -34,9 +34,7 @@ def python_function():
     1. Third Level Number
       1. Fourth Level Number
 
-- [x] Task Item 1    
-- [ ] Task Item 2    
-- [ ] Task Item 3
+herp derp ya
 
 @YuJames what you think    <- notifies them
 
